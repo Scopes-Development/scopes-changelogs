@@ -12,7 +12,7 @@
 ![slowmodeExample1](https://media.discordapp.net/attachments/773612446560157706/875246105720389672/unknown.png)
 ![slowmodeExample2](https://media.discordapp.net/attachments/773612446560157706/875246112292868126/unknown.png)
 
-### Updates
+### Changes
 » The successful warning message shows how many warnings the user has.
 
 » The list of a user's warnings is now displayed in pages that you can switch between using emojis.
